@@ -2,12 +2,12 @@
 
 @section('title')
 
-welcome home!!
+contact us i fucken dare u
 
 @endsection
 
 @section('content')
 
-<h1>hey fucko!</h1>
+<h1>give us a call!</h1>
 
 @endsection

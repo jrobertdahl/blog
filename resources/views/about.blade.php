@@ -2,12 +2,12 @@
 
 @section('title')
 
-welcome home!!
+about about about
 
 @endsection
 
 @section('content')
 
-<h1>hey fucko!</h1>
+<h1>learn all about us nerd!</h1>
 
 @endsection
