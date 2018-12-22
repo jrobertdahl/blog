@@ -8,6 +8,13 @@ welcome home!!
 
 @section('content')
 
-<h1>hey fucko!</h1>
+<h1>hey fucko!</h1> 
+
+
+@foreach($tasks as $task)
+
+    <li>{{ $task }}</li>
+
+@endforeach
 
 @endsection
